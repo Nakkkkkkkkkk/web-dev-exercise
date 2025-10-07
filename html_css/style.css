@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+}
+body{
+    margin: 30px;
+    background-color: purple;
+    height: 500vh;
+}
+.container{
+    max-width: 960px;
+    background-color:white;
+    margin: auto;
+    border-radius: 20px;
+    padding: 50px;
+}
+img{
+    border-radius: 50%;
+    width: 356px;
+    padding: 40px 0;
+}
+p{
+    color: rgb(125, 109, 109);
+    font-size: 32px;
+    padding: 10px;
+}
+a{
+    font-size: 32px;
+}
